@@ -7,4 +7,6 @@ Class is CTS-285 with Mr. Norris
 
 "You'll navigate through equations with the precision of a stellar cartographer. Make it so that every calculation, from the simplest addition to the most complex algorithm, is at your fingertips. Boldly go where no calculator has gone before"
 
+Thank you!
+
 
