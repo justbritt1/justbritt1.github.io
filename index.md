@@ -7,4 +7,10 @@ Space... the final frontier. But in the vast expanse of cyberspace, there lies a
 
 <img src="img/scene.jpg"></img>
 
+Info
+
+1. Login
+2. Answer checker
+3. Memory bank
+
 
