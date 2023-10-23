@@ -17,11 +17,9 @@ Space... the final frontier. But in the vast expanse of cyberspace, there lies a
 
 I am learning Python and Java. I plan on becoming a great software developer!
 
-## My projects
+## My project board
 
-<ul>
-    <li><a href="https://github.com/users/justbritt1/projects/1/views/3"></a>
-</ul>
+https://github.com/users/justbritt1/projects/1/views/3
 
 ## Thanks for viewing<3
 
