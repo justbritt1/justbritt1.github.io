@@ -13,4 +13,16 @@ Space... the final frontier. But in the vast expanse of cyberspace, there lies a
 2. Answer checker
 3. Memory bank
 
+## Code
+
+I am learning Python and Java. I plan on becoming a great software developer!
+
+## My projects
+
+<ul>
+    <li><a href="https://github.com/users/justbritt1/projects/1/views/3"></a>
+</ul>
+
+## Thanks for viewing<3
+
 
