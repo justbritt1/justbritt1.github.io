@@ -4,6 +4,10 @@ All notable changes to this project will be documented here.
 The format is based on [Semantic Versioning](https://semver.org/).
 
 ---
+## [1.7.2] - 2025-06-02
+- Copied and converted tool to now work with Canvas.
+- fixed 'bug' dropped students with no SISID number.
+- Made new user guide and help docs for canvas tool use.
 
 ## [1.7.1] - 2025-02-25
 ### Added
